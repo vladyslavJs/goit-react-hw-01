@@ -1,0 +1,32 @@
+.container {
+    padding: 10px;
+    text-align: center;
+}
+
+.avatar {
+    width: 50px;
+    height:max-content;
+    margin: 0 auto;
+}
+
+.text {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    text-align: center;
+}
+
+.isOnline {
+    color: #00FF00;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+}
+
+.isOffline {
+    color: #FF0000;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+}
